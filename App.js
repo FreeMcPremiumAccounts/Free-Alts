@@ -1,5 +1,5 @@
 var t = document.createElement("h1");
-t.innerHTML = "free minecrft alts";
-t.style.color="purple"
+t.innerHTML = "Free Minecrft Alts";
+t.style.color="lime"
 document.body.append(t);
 document.body.style.backgroundColor = "orange";
